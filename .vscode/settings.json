@@ -10,7 +10,8 @@
         "globaldef.hpp": "c",
         "xunit.hpp": "c",
         "stack.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "string.h": "c"
     }
 
 }
