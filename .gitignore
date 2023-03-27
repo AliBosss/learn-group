@@ -1,6 +1,8 @@
 # Target File
 *.history
 demo/*.c
+debug/*.c
+SCM/Devdlop/*.c
 
 # Prerequisites
 *.d
